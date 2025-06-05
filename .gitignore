@@ -1,0 +1,4 @@
+.env
+resources/
+pretrained_models/
+v/
